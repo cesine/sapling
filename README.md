@@ -72,7 +72,7 @@ When we upgrade sapling's repo, you can just fetch the changes and merge them in
 
 ## Directory Layout
 
-    _public/                  --> Contains generated file for severing the app
+    _public/                  --> Contains generated file for serving the app
                                   These files should not be edited directly
     app/                      --> all of the files to be used in production
       scripts/                --> base directory for app scripts
